@@ -1,3 +1,5 @@
+= Some day, this will be updated to be pretty (But not today!)
+
 - 👋 Hi, I’m @gbennett19
 - 👀 I’m interested in learning new things, and hoping to learn Python, and refresh myself on languages previously learned such as Java, HTML, and Javascript
 - 🌱 I’m currently learning Computer Science at OSU!
