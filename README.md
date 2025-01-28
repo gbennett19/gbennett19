@@ -1,4 +1,10 @@
-= Some day, this will be updated to be pretty (But not today!)
+I have used the following tech previously used:
+-   Python
+-   C
+-   Assembly x86 (MASM)
+-   HTML / CSS / Javascript
+-   Node.js / Flask
+-   SQL / MongoDB
 
 - 👋 Hi, I’m @gbennett19
 - 👀 I’m interested in learning new things, and hoping to learn Python, and refresh myself on languages previously learned such as Java, HTML, and Javascript
